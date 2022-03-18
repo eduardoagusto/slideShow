@@ -1,2 +1,2 @@
 # slideShow_JS_HTML_CSS
-Studying SlideShow in JavaScript Akatsuki 
+Studying programing language JavaScript, technology HTML and CSS : JavaScript SlideShow formatting: Akatsuki
